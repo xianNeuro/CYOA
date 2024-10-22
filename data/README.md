@@ -5,5 +5,7 @@ Story and recall data reported in the main manuscript (and subjects' demographic
 	adventure, pasv, N=49  
 	romance, free, N=100, selected N=18 (to match with yoke/pasv)  
 	romance, yoke, N=53  
-	romance, pasv, N=55  
+	romance, pasv, N=55    
+ 
+ ratings/ has raw rating files associated with each subject
 
